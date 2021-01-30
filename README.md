@@ -1,6 +1,8 @@
 # Clean Code by Robert C. Martin 
 "A Handbook of Agile Software Craftsmanship"
 
+This is a list of my notes from that book for a quick reference in the future. My notes below focus mainly on two areas - functions and testing. Enjoy 🚀
+
 ## Functions
 
 ### Small
